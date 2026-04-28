@@ -43,7 +43,7 @@ HIPAA Considerations
 This project is designed for educational purposes and does not use real patient data. In a real clinical setting, patient information would need to be protected using proper access controls, encryption, authentication, audit logs, and secure storage methods.
 
 Project Goals
-Demonstrate basic healthcare workflow automation
-Support medication adherence monitoring
-Improve care team visibility into missed doses
-Apply Python programming to a real-world health informatics problem
+- Demonstrate basic healthcare workflow automation
+- Support medication adherence monitoring
+- Improve care team visibility into missed doses
+- Apply Python programming to a real-world health informatics problem
