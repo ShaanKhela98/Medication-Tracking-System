@@ -1,0 +1,8 @@
+Patient ID,Age,Condition,Medication List
+PT-001,58,Diabetes,"Metformin, Lisinopril, Atorvastatin"
+PT-002,67,Hypertension,"Amlodipine, Hydrochlorothiazide, Lisinopril"
+PT-003,72,Diabetes,"Glipizide, Metformin, Losartan"
+PT-004,60,Hypertension,"Amlodipine, Lisinopril, Simvastatin"
+PT-005,65,Diabetes,"Insulin, Metformin, Lisinopril"
+PT-006,70,Hypertension,"Atenolol, Hydrochlorothiazide, Lisinopril"
+PT-007,66,Diabetes,"Insulin, Metformin, Atorvastatin"

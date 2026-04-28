@@ -1,0 +1,30 @@
+Patient ID,Name of Medication,Dosage,Frequency (per day),Time of Day
+PT-001,Metformin,500mg,2,08:00
+PT-001,Metformin,500mg,2,20:00
+PT-001,Lisinopril,10mg,1,09:00
+PT-001,Atorvastatin,20mg,1,21:00
+PT-002,Amlodipine,5mg,1,07:00
+PT-002,Hydrochlorothiazide,25mg,1,08:00
+PT-002,Lisinopril,10mg,1,20:00
+PT-003,Glipizide,5mg,1,08:30
+PT-003,Metformin,500mg,2,08:00
+PT-003,Metformin,500mg,2,20:00
+PT-003,Losartan,50mg,1,21:00
+PT-004,Amlodipine,5mg,1,07:30
+PT-004,Lisinopril,10mg,1,08:30
+PT-004,Simvastatin,20mg,1,20:30
+PT-005,Insulin,10 units,3,07:00
+PT-005,Insulin,10 units,3,12:00
+PT-005,Insulin,10 units,3,18:00
+PT-005,Metformin,500mg,2,08:00
+PT-005,Metformin,500mg,2,20:00
+PT-005,Lisinopril,10mg,1,21:00
+PT-006,Atenolol,50mg,1,09:00
+PT-006,Hydrochlorothiazide,25mg,1,08:00
+PT-006,Lisinopril,10mg,1,20:00
+PT-007,Insulin,15 units,3,06:00
+PT-007,Insulin,15 units,3,12:00
+PT-007,Insulin,15 units,3,18:00
+PT-007,Metformin,500mg,2,07:00
+PT-007,Metformin,500mg,2,19:00
+PT-007,Atorvastatin,20mg,1,20:00

@@ -1,0 +1,14 @@
+Patient ID,Name of Medication,Dosage,Time of Day
+PT-001,Metformin,500mg,20:00
+PT-001,Atorvastatin,20mg,21:00
+PT-002,Lisinopril,10mg,20:00
+PT-003,Metformin,500mg,20:00
+PT-003,Losartan,50mg,21:00
+PT-004,Simvastatin,20mg,20:30
+PT-005,Insulin,10 units,18:00
+PT-005,Metformin,500mg,20:00
+PT-005,Lisinopril,10mg,21:00
+PT-006,Lisinopril,10mg,20:00
+PT-007,Insulin,15 units,18:00
+PT-007,Metformin,500mg,19:00
+PT-007,Atorvastatin,20mg,20:00
